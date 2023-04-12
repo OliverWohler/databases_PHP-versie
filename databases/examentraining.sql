@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 DROP DATABASE IF EXISTS `examentraining`;
 CREATE DATABASE `examentraining`;
@@ -15,3 +16,6 @@ CREATE TABLE `leerlingen` (
 `klas` varchar(3) NOT NULL,
 `naam` text NOT NULL,
 );
+=======
+DROP DATABASE IF EXISTS `examentraining`;
+>>>>>>> 94f218e07614a3c814592ab04f95a9b438b01e63
